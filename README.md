@@ -1,18 +1,18 @@
-# 📚 Peblo Story Buddy
+#  Peblo Story Buddy
 
 Peblo Story Buddy is a Flutter application developed for the Peblo Flutter Intern Challenge. The app reads a short story aloud using Text-to-Speech (TTS) and then presents an interactive quiz to test the user's understanding.
 
-## ✨ Features
+##  Features
 
-- 📖 Story narration using Flutter Text-to-Speech
-- 🧠 Interactive multiple-choice quiz
-- 🎯 Instant feedback for correct and incorrect answers
-- 🎨 Modern gradient user interface
-- 📱 Responsive Flutter design
-- 🎬 Shake animation for incorrect answers
-- ⏳ Loading state while the story is being read
+-  Story narration using Flutter Text-to-Speech
+-  Interactive multiple-choice quiz
+-  Instant feedback for correct and incorrect answers
+-  Modern gradient user interface
+-  Responsive Flutter design
+-  Shake animation for incorrect answers
+-  Loading state while the story is being read
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Flutter
 - Dart
@@ -21,7 +21,7 @@ Peblo Story Buddy is a Flutter application developed for the Peblo Flutter Inter
 - AnimationController
 - setState
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 peblo_story_buddy/
@@ -38,7 +38,7 @@ peblo_story_buddy/
 └── README.md
 ```
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone the repository
 
@@ -64,7 +64,7 @@ flutter pub get
 flutter run
 ```
 
-## 📱 App Flow
+##  App Flow
 
 1. Launch the application.
 2. Tap **Read Me a Story**.
@@ -72,7 +72,7 @@ flutter run
 4. After narration, answer the quiz.
 5. Receive instant feedback based on your answer.
 
-## 🤖 AI Assistance
+##  AI Assistance
 
 ChatGPT was used during development for:
 
@@ -84,7 +84,7 @@ ChatGPT was used during development for:
 
 The final implementation and testing were completed by the developer.
 
-## 👩‍💻 Developer
+##  Developer
 
 **Mohitaa J C**
 
