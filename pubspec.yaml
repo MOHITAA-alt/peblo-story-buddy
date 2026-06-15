@@ -1,5 +1,5 @@
 name: peblo_story_buddy
-description: "A new Flutter project."
+description: "Peblo Story Buddy - A Flutter storytelling app with Text-to-Speech and an interactive quiz."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
