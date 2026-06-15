@@ -43,7 +43,7 @@ peblo_story_buddy/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/peblo-story-buddy.git
+git clone https://github.com/MOHITAA-alt/peblo-story-buddy.git
 ```
 
 2. Navigate to the project
